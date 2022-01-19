@@ -1,0 +1,356 @@
+.fusion-form-form-wrapper .fusion-form-106 .fusion-form-tooltip .fusion-form-tooltip-content {
+                                    color: #ffffff !important;
+                                    background-color: #333333 !important;
+                                    border-color: #333333 !important;
+                                  }
+
+                                  .fusion-form-form-wrapper .fusion-form-106 .fusion-form-field {
+                                    margin-top: 15px;
+                                    margin-bottom: 15px;
+                                  }
+.fusion-form-form-wrapper .fusion-form-106 .fusion-form-field {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-106
+  .fusion-form-tooltip
+  .fusion-form-tooltip-content,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-tooltip
+  .fusion-form-tooltip-content {
+  color: #ffffff !important;
+  background-color: #333333 !important;
+  border-color: #333333 !important;
+}
+
+.fusion-form-form-wrapper .fusion-form-300 .fusion-form-field {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.fusion-form-form-wrapper .fusion-form-300 input[type="date"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="datetime-local"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="email"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="month"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="number"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="password"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="search"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="tel"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="phone-number"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="text"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="time"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="url"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="week"],
+.fusion-form-form-wrapper .fusion-form-300 input[type="datetime"],
+.fusion-form-form-wrapper .fusion-form-300 select {
+  height: 60px;
+  background-color: #013394;
+  color: #ffffff;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-left-width: 0px;
+  border-color: #f0f1f3;
+  border-radius: 50px;
+}
+
+.fusion-form-form-wrapper .fusion-form-300 input[type="range"] {
+  height: 60px;
+}
+
+.fusion-form-form-wrapper .fusion-form-300 .fusion-form-input-with-icon > i {
+  line-height: 60px;
+  color: #ffffff !important;
+}
+
+.fusion-form-form-wrapper .fusion-form-300 textarea,
+.fusion-form-form-wrapper .fusion-form-300 input[type="upload"] {
+  background-color: #013394;
+  color: #ffffff;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-left-width: 0px;
+  border-color: #f0f1f3;
+  border-radius: 50px;
+}
+
+.fusion-form-form-wrapper .fusion-form-300 input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.fusion-form-form-wrapper .fusion-form-300 textarea::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.fusion-form-form-wrapper .fusion-form-300 select:invalid {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.fusion-form-form-wrapper .fusion-form-300 option {
+  color: #ffffff;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  input.fusion-form-upload-field::placeholder {
+  color: #ffffff;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-select-wrapper
+  .select-arrow
+  path {
+  stroke: #ffffff !important;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-image-select
+  label {
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-left-width: 0px;
+  border-color: #f0f1f3;
+  border-radius: 50px;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-select-wrapper
+  .select-arrow {
+  right: calc(1em + 0px) !important;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-input-with-icon
+  > i {
+  left: calc(1em + 0px) !important;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field:not(.fusion-form-upload-field)
+  .fusion-form-input-with-icon
+  > i {
+  top: calc(50% + (0px - 0px) / 2) !important;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field.fusion-form-textarea-field
+  .fusion-form-input-with-icon
+  > i {
+  top: calc(0px + 1em) !important;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-checkbox
+  label:before,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-radio
+  label:before {
+  border-color: #f0f1f3;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-rating-area
+  .fusion-form-rating-icon {
+  color: #f0f1f3;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  input[type="range"]::-webkit-slider-runnable-track {
+  background: #f0f1f3;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  input[type="range"]::-moz-range-track {
+  background: #f0f1f3;
+}
+
+.fusion-form-form-wrapper .fusion-form-300 input:not([type="submit"]):focus,
+.fusion-form-form-wrapper .fusion-form-300 select:focus,
+.fusion-form-form-wrapper .fusion-form-300 textarea:focus,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field.focused.fusion-form-upload-field
+  .fusion-form-upload-field,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-radio
+  input:checked
+  + label:before,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-radio
+  input:hover
+  + label:before,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-checkbox
+  input:checked
+  + label:before,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-checkbox
+  input:hover
+  + label:before,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-image-select
+  .fusion-form-input:checked
+  + label,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-image-select
+  .fusion-form-input:hover
+  + label,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-checkbox
+  input:focus
+  + label:before,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-radio
+  input:focus
+  + label:before,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-image-select
+  .fusion-form-input:focus
+  + label {
+  border-color: #c9cacc;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-radio
+  input:hover:not(:checked)
+  + label:before,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-checkbox
+  input:hover:not(:checked)
+  + label:before,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-image-select
+  .fusion-form-input:hover:not(:checked)
+  + label,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-upload-field-container:hover
+  .fusion-form-upload-field,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-range-field-container
+  .fusion-form-range-value:hover:not(:focus),
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-input:hover:not(:focus) {
+  border-color: rgba(201, 202, 204, 0.5);
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-rating-area
+  .fusion-form-input:checked
+  ~ label
+  i {
+  color: #c9cacc;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-rating-area
+  .fusion-form-input:checked:hover
+  ~ label
+  i,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-rating-area
+  .fusion-form-rating-icon:hover
+  i,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-rating-area
+  .fusion-form-rating-icon:hover
+  ~ label
+  i,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-rating-area
+  .fusion-form-input:hover
+  ~ label
+  i {
+  color: rgba(201, 202, 204, 0.5);
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-checkbox
+  input:checked
+  + label:after,
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  .fusion-form-radio
+  input:checked
+  + label:after {
+  background: #c9cacc;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  input[type="range"]::-webkit-slider-thumb {
+  background: #c9cacc;
+}
+
+.fusion-form-form-wrapper
+  .fusion-form-300
+  .fusion-form-field
+  input[type="range"]::-moz-range-thumb {
+  background: #c9cacc;
+}

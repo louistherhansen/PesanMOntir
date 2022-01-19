@@ -1,0 +1,37 @@
+#accordian-1 .fusion-panel:hover,
+#accordian-1 .fusion-panel.hover {
+  background-color: #ffffff;
+}
+#accordian-1 .fusion-panel {
+  border-color: #ffffff;
+  border-width: 13px;
+  background-color: #ffffff;
+}
+.fusion-accordian #accordian-1 .panel-title a .fa-fusion-box:before {
+  font-size: 16px;
+}
+.fusion-accordian #accordian-1 .panel-title a .fa-fusion-box {
+  color: #ffffff;
+}
+.fusion-accordian #accordian-1 .fa-fusion-box {
+  background-color: #013cae;
+  border-color: #013cae;
+}
+.fusion-accordian #accordian-1 .panel-title a:hover,
+.fusion-accordian #accordian-1 .panel-title a.hover {
+  color: #012b7f;
+}
+.fusion-faq-shortcode
+  .fusion-accordian
+  #accordian-1
+  .fusion-toggle-boxed-mode:hover
+  .panel-title
+  a {
+  color: #012b7f;
+}
+.fusion-accordian #accordian-1 .panel-title .active .fa-fusion-box,
+.fusion-accordian #accordian-1 .panel-title a:hover .fa-fusion-box,
+.fusion-accordian #accordian-1 .panel-title a.hover .fa-fusion-box {
+  background-color: #012b7f !important;
+  border-color: #012b7f !important;
+}
